@@ -6,9 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "12V-2x6 Current Monitor")
-		(date "2025-08-12")
+		(date "2025-09-21")
 		(rev "1")
-		(company "eggsampler")
+		(company "github.com/eggsampler")
 	)
 	(lib_symbols
 		(symbol "Graphic:Logo_Open_Hardware_Large"
@@ -409,23 +409,25 @@
 		)
 		(uuid "2c65b3e1-37c5-4e2a-a582-180e8616408f")
 	)
-	(text "5VP / GND1"
+	(text "5VP / GND1\n<------"
 		(exclude_from_sim no)
-		(at 138.43 27.94 0)
+		(at 139.7 25.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify right)
 		)
 		(uuid "a89a81c8-1e18-4794-b76e-f6920632d64d")
 	)
-	(text "5V / GND"
+	(text "5V / GND\n------>"
 		(exclude_from_sim no)
-		(at 153.67 27.94 0)
+		(at 152.4 25.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "f5763c95-dca8-4209-8569-a6f9b87d13ee")
 	)

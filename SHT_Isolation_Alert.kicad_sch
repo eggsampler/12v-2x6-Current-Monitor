@@ -6,9 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "12V-2x6 Current Monitor")
-		(date "2025-08-12")
+		(date "2025-09-21")
 		(rev "1")
-		(company "eggsampler")
+		(company "github.com/eggsampler")
 	)
 	(lib_symbols
 		(symbol "Device:C_Small"
@@ -4121,7 +4121,7 @@
 				)
 			)
 		)
-		(property "Value" "ADuM260N"
+		(property "Value" "ADuM260N1"
 			(at 152.4 83.82 0)
 			(effects
 				(font

@@ -6,9 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "12V-2x6 Current Monitor")
-		(date "2025-08-12")
+		(date "2025-09-21")
 		(rev "1")
-		(company "eggsampler")
+		(company "github.com/eggsampler")
 	)
 	(lib_symbols
 		(symbol "10161122-1240xxxlf_1"
@@ -1950,7 +1950,7 @@
 				)
 			)
 		)
-		(property "Footprint" "12v-2x6:10164279-001LF"
+		(property "Footprint" "12v-2x6:10164279-124121LF"
 			(at 59.69 36.83 0)
 			(effects
 				(font
@@ -2060,7 +2060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "12v-2x6:10164279-001LF"
+		(property "Footprint" "12v-2x6:10164279-124121LF"
 			(at 59.69 125.73 0)
 			(effects
 				(font
