@@ -56,7 +56,6 @@ J4,PH 1x02 2.54,PinHeader_1x02_P2.54mm_Horizontal,120.655,-44.385,90.0,top
 J5,PH 1x02 2.54,PinHeader_1x02_P2.54mm_Horizontal,127.795,-44.385,90.0,top
 J6,S2B-PH-K 1x02 P2,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,141.85,-54.55,90.0,top
 J7,S2B-PH-K 1x02 P2,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,141.85,-46.6,90.0,top
-J8,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,112.7,-40.64,0.0,top
 M2,470531000,FanPinHeader_1x04_P2.54mm_Vertical,116.09,-91.3475,180.0,top
 Q1,AO3400A,SOT-23,138.6,-77.675,-90.0,top
 R1,3m,R_Shunt_Vishay_WSKW0612,75.99975,-68.0,0.0,top
